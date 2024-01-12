@@ -1,4 +1,4 @@
-module github.com/TyunTech/go-petstore
+module github.com/heiden-deng/go-petstore
 
 go 1.14
 
